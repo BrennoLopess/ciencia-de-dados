@@ -1,17 +1,13 @@
-# Ciência de Dados 🔬📈
+# Ciência de Dados 📊
 
-Repositório dedicado a projetos completos de ciência de dados, passando por todo o pipeline: coleta, limpeza, exploração, modelagem, avaliação e interpretação dos resultados.
+Este repositório reúne projetos práticos aplicados à Ciência de Dados. A estrutura está organizada por tópicos:
 
-## Estrutura
-- `notebooks/`: Jupyter Notebooks com experimentos
-- `datasets/`: Conjuntos de dados utilizados
-- `models/`: Modelos treinados (.pkl, .joblib, etc)
-- `src/`: Scripts auxiliares (feature engineering, pré-processamento, etc)
-- `docs/`: Relatórios, imagens e explicações
+- **Análise Exploratória**
+- **Modelos de Regressão**
+- **Classificação**
+- **Clustering**
+- **Séries Temporais**
 
-## Tecnologias principais
-- Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
+Cada pasta contém notebooks e experimentos com foco prático, integrando análise, modelagem e visualização.
 
-## Autor
-Brenno Lopes
 
